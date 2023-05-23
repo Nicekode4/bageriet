@@ -1,10 +1,11 @@
 import React from 'react'
 import { FrontpageStyle } from './Frontpage.style'
+import Values from '../../Components/Sections/Values/Values'
 
 function Frontpage() {
   return (
     <FrontpageStyle>
-            <div>Frontpage</div>
+            <Values />
     </FrontpageStyle>
   )
 }
