@@ -7,10 +7,10 @@ function Header() {
     <HeaderStyle>
             <div>
                 <NavLink to={"/"}>FORSIDE</NavLink>
-                <NavLink to={"/"}>PRODUKTER</NavLink>
+                <NavLink to={"/produkter"}>PRODUKTER</NavLink>
                 <h1>Bageriet</h1>
-                <NavLink to={"/"}>KONTAKT</NavLink>
-                <NavLink to={"/"}>LOGIN</NavLink>
+                <NavLink to={"/kontakt"}>KONTAKT</NavLink>
+                <NavLink to={"/login"}>LOGIN</NavLink>
             </div>
     </HeaderStyle>
   )
