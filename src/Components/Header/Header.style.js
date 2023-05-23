@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import headerImg from "../../Images/slide1.jpg"
+
 
 export const HeaderStyle = styled.header`
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
@@ -26,7 +26,7 @@ h1{
 .active{
     color: white;
 }
-background-image: url('${headerImg}');
+
 //background-color: #B0C6D4;
 height: fit-content;
 text-align: center;
