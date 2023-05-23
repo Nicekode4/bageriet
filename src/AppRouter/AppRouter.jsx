@@ -1,10 +1,11 @@
 import React from 'react'
-import { Routes } from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom'
+import Frontpage from '../Pages/Frontpage/Frontpage'
 
 function AppRouter() {
   return (
     <Routes>
-        <Route index element={0}></Route>
+        <Route index element={<Frontpage />}></Route>
     </Routes>
   )
 }
