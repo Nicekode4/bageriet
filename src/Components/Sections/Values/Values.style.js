@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const ValuesStyle = styled.article`
 color: #272C31;
 text-align: center;
-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 h2{
     font-family: 'Lobster';
     margin-top: 5rem;

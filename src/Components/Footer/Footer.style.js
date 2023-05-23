@@ -4,7 +4,7 @@ export const FooterStyle = styled.footer`
 background-color: #272C31 ;
 color: gray;
 text-align: center;
-font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+font-family:  'Open Sans', 'Helvetica Neue', sans-serif;
 p{
     padding: 1rem;
     margin-left: 10rem;
