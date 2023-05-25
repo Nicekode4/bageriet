@@ -1,5 +1,6 @@
 import styled from "styled-components";
-import newsletterbg from "../../../Images/newsletterbg.jpg"
+
+
 export const NewsletterStyle = styled.article`
 background-image: url('${newsletterbg}');
 background-size: cover;

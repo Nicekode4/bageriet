@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import headerImg from "../../../Images/slide1.jpg"
+
 export const SliderStyle = styled.article`
 background-color: red;
 height: 40rem;

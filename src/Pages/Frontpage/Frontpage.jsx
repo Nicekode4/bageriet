@@ -6,14 +6,16 @@ import img from "../../Images/slide1.jpg"
 import Header from '../../Components/Header/Header'
 import Slider from '../../Components/Sections/Slider/Slider'
 
+
 function Frontpage() {
   return (
-    <FrontpageStyle>
-      <Slider />
-      
+<>
+            <Slider />
             <Values />
             <Newsletter />
-    </FrontpageStyle>
+</>
+
+
   )
 }
 
