@@ -43,5 +43,10 @@ img{
 .breadSelection{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+
+    margin-bottom: 10rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+
 }
 `
