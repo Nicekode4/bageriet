@@ -7,6 +7,7 @@ import Header from '../../Components/Header/Header'
 import Slider from '../../Components/Sections/Slider/Slider'
 import NewsletterTwo from '../../Components/Sections/Newsletter/NewsletterTwo'
 import ValuesTwo from '../../Components/Sections/Values/ValuesTwo'
+import Breads from '../../Components/Sections/Breads/Breads'
 
 
 function Frontpage() {
@@ -15,6 +16,7 @@ function Frontpage() {
             <Slider />
             <ValuesTwo />
             <NewsletterTwo />
+            <Breads />
 </>
 
 
