@@ -9,6 +9,8 @@ text-align: center;
     display: grid;
     grid-template-columns: 1% 99%;
     padding-left: 10rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
 }
 .navMenu{
     display: flex;
@@ -44,8 +46,8 @@ p{
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     margin-bottom: 10rem;
     color: gray;
-    margin-left: 10rem;
-    margin-right: 10rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
 }
 h5{
     height: 2rem;
@@ -80,5 +82,19 @@ img{
     padding-left: 5rem;
     padding-right: 10rem;
 
+}
+.item{
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: left;
+    margin: 5rem;
+    h2{
+        font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .text{
+        img {
+    float: left;  /* Float the image to the left */
+    margin-right: 10px;  /* Add a margin to create space between the image and text */
+  }
+    }
 }
 `
